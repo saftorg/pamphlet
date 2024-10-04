@@ -1,9 +1,14 @@
 
 sections = [
-	{ heading = 'Your Trusted Partner for Innovative Solutions and Expert Support', description = "Welcome to our website! We're dedicated to providing high-quality services that meet your needs. Whether you're looking for innovative solutions, expert advice, or reliable support, we are here to help. Our team is committed to delivering exceptional value and ensuring your satisfaction every step of the way.\n\nFeel free to explore our offerings and get in touch with any questions. We look forward to working with you and helping you achieve your goals.", links = [
-		{ title = 'Learn More About Our Services', url = 'https://google.com', icon = 'ph:address-book-duotone' },
-		{ title = 'Contact Our Support Team', url = 'https://google.com' },
-		{ title = 'Explore Our Latest Projects', url = 'https://google.com' },
+	{ heading = 'Citations for Pamphlet', links = [
+		{ title = 'Arno Penzias, New York Times, March 12, 1978', url = 'https://www.nytimes.com/1978/03/12/archives/clues-to-universe-origin-expected-the-making-of-the-universe.html', icon = 'simple-icons:newyorktimes' },
+		{ title = 'Stephen Hawking, A Brief History of Time, 46', url = 'https://www.fisica.net/relatividade/stephen_hawking_a_brief_history_of_time.pdf', icon = 'mdi:file-pdf-box' },
+		{ title = 'Sir Roger Penrose, in the movie A Brief History of Time (Burbank, CA: Paramount Pictures Incorporated, 1992)', url = 'https://www.imdb.com/title/tt0103882/', icon = 'simple-icons:imdb' },
+		{ title = 'Richard Dawkins, Cited in Lewis Wolpert, Six Impossible Things before Breakfast (London: Faber and Faber, 2006), 215', url = 'https://www.amazon.in/Six-Impossible-Things-Before-Breakfast/dp/0571231683', icon = 'mdi:amazon' },
+		{ title = 'Richard Taylor, Ethics, Faith, and Reason (Englewood Cliffs, NJ: Prentice Hall, 1985), 90, 84.', url = 'https://place.asburyseminary.edu/cgi/viewcontent.cgi?article=1225&context=faithandphilosophy', icon = 'mdi:file-pdf-box' },
+		{ title = 'Michael Ruse, Darwinism Defended (London: Addison-Wesley, 1982), p. 275.', url = 'https://archive.org/details/darwinismdefende0000ruse/page/n9/mode/2up', icon = 'academicons:archive' },
+		{ title = 'Gerd Lüdemann, What Really Happened?, p. 80.', url = 'https://books.google.co.in/books/about/What_Really_Happened_to_Jesus.html?id=3j9-midmNzsC&redir_esc=y', icon = 'ph:books-fill' },
+		{ title = 'Pinchas Lapide, Quoted in Carl E. Braaten, introduction to The Resurrection of Jesus: A Jewish Perspective (Eugene, OR: Wipf and Stock, 1982), 13', url = 'https://catalogue.nla.gov.au/catalog/1240449', icon = 'ph:books-fill' },
 	] },
 	{ heading = ' ', links = [
 		{ title = 'The Kalam Cosmological Argument - Part 1: Scientific', url = 'https://www.youtube.com/watch?v=6CulBuMCLg0&list=PL3gdeV4Rk9EfL-NyraEGXXwSjDNeMaRoX&index=5', icon = 'mdi:youtube' },
