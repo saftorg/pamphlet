@@ -4,6 +4,10 @@ sections = [
 		{ title = 'Josephus, Antiquities 18.64. Josephus in Ten Volumes, vol. 9, Jewish Antiquities, Loeb Classical Library Louis H. Feldman, trans.', url = 'https://archive.org/details/Jewish-Antiquities-vol-8/page/2/mode/2up', icon = 'simple-icons:internetarchive' },
 		{ title = 'John Dominic Crossan, Jesus: A Revolutionary Biography, 145', url = 'https://archive.org/details/jesus-a-biography-john-dominic-crossan_202302/mode/2up', icon = 'simple-icons:internetarchive' },
 		{ title = 'Dr. William D Edwards, On the Physical Death of Jesus Christ, Journal of the American Medical Association, 1455-1463', url = 'chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://people.bethel.edu/~pferris/ot103/Jesus_Crucifixion.pdf', icon = 'mdi:file-pdf-box' },
+		{ title = 'John A. T. Robinson, The Human Face of God (Philadelphia: Westminster, 1973), 131)', url = 'https://archive.org/details/humanfaceofgod0000robi', icon = 'simple-icons:internetarchive' },
+		{ title = 'Josephus (Antiquities 4.8.15)', url = 'https://google.com' },
+		{ title = "Michael Grant, Jesus: A Historian's Review of the Gospels", url = 'https://archive.org/details/jesushistoriansr00gran/page/n7/mode/2up', icon = 'simple-icons:internetarchive' },
+		{ title = 'Gerd Lüdemann, The Resurrection of Jesus. p. 38.', url = 'https://archive.org/details/resurrectionofch0000ldem/page/n5/mode/2up', icon = 'simple-icons:internetarchive' },
 	] },
 	{ heading = 'Unlock Your Potential with Tailored Solutions', links = [
 		{ title = 'Read Customer Testimonials', url = 'https://google.com' },
