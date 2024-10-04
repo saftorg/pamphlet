@@ -11,6 +11,7 @@ sections = [
 		{ title = 'Gerd Lüdemann, What Really Happened to Jesus? trans. John Bowden, 80.', url = 'https://books.google.co.in/books/about/What_Really_Happened_to_Jesus.html?id=3j9-midmNzsC&redir_esc=y', icon = 'ph:books-fill' },
 		{ title = 'Lord George Lyttleton, The Conversion of St. Paul (New York: American Tract Society, 1929), p. 467', url = 'https://books.google.co.in/books/about/The_Conversion_of_St_Paul.html?id=I8DqLk41qZUC&redir_esc=y', icon = 'ph:books-fill' },
 		{ title = 'Pinchas Lapide, Quoted in Carl E. Braaten, introduction to The Resurrection of Jesus: A Jewish Perspective (Eugene, OR: Wipf and Stock, 1982), 13', url = 'https://archive.org/details/resurrectionofje0000lapi', icon = 'simple-icons:internetarchive' },
+		{ title = "Sir Lionel Luckhoo (Guinness Records; world's most successful lawyer) (Clifford, The Case for the Empty Tomb, 112)", url = 'https://archive.org/details/caseforemptytomb0000ross/mode/2up', icon = 'simple-icons:internetarchive' },
 	] },
 	{ heading = 'Unlock Your Potential with Tailored Solutions', links = [
 		{ title = 'Read Customer Testimonials', url = 'https://google.com' },
