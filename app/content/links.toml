@@ -5,7 +5,16 @@ sections = [
 		{ title = 'Contact Our Support Team', url = 'https://google.com' },
 		{ title = 'Explore Our Latest Projects', url = 'https://google.com' },
 	] },
-	{ heading = 'Unlock Your Potential with Tailored Solutions', links = [
-		{ title = 'Read Customer Testimonials', url = 'https://google.com' },
+	{ heading = ' ', links = [
+		{ title = 'The Kalam Cosmological Argument - Part 1: Scientific', url = 'https://www.youtube.com/watch?v=6CulBuMCLg0&list=PL3gdeV4Rk9EfL-NyraEGXXwSjDNeMaRoX&index=5', icon = 'mdi:youtube' },
+		{ title = 'The Kalam Cosmological Argument - Part 2: Philosophical', url = 'https://www.youtube.com/watch?v=vybNvc6mxMo&list=PL3gdeV4Rk9EfL-NyraEGXXwSjDNeMaRoX&index=6', icon = 'mdi:youtube' },
+		{ title = 'The Fine-Tuning of the Universe', url = 'https://www.youtube.com/watch?v=EE76nwimuT0&list=PL3gdeV4Rk9EfL-NyraEGXXwSjDNeMaRoX&index=7', icon = 'mdi:youtube' },
+		{ title = 'The Moral Argument', url = 'https://www.youtube.com/watch?v=OxiAikEk2vU&list=PL3gdeV4Rk9EfL-NyraEGXXwSjDNeMaRoX&index=9', icon = 'mdi:youtube' },
+		{ title = 'Did Jesus Rise from the Dead? - Part One: The Facts', url = 'https://www.youtube.com/watch?v=4qhQRMhUK1o&list=PL3gdeV4Rk9EfL-NyraEGXXwSjDNeMaRoX&index=14', icon = 'mdi:youtube' },
+		{ title = 'Did Jesus Rise from the Dead? - Part Two: The Explanation', url = 'https://www.youtube.com/watch?v=6SbJ4p6WiZE&list=PL3gdeV4Rk9EfL-NyraEGXXwSjDNeMaRoX&index=15', icon = 'mdi:youtube' },
+		{ title = 'God and Mathematics', url = 'https://www.youtube.com/watch?v=QJBOiZXkKu8&list=PL3gdeV4Rk9EfL-NyraEGXXwSjDNeMaRoX&index=8', icon = 'mdi:youtube' },
+		{ title = 'Leibniz’ Contingency Argument', url = 'https://www.youtube.com/watch?v=FPCzEP0oD7I&list=PL3gdeV4Rk9EfL-NyraEGXXwSjDNeMaRoX&index=4', icon = 'mdi:youtube' },
+		{ title = 'Stealing Truth And Morality From God | Frank Turek | Day 1 | Session 1 | Areopagus 2022', url = 'https://www.youtube.com/watch?v=R0WAzTJdbtw', icon = 'mdi:youtube' },
+		{ title = 'The Cosmic Fingerprint of God | Hugh Ross | Day 1 | Session 2 | Areopagus 2022', url = 'https://www.youtube.com/watch?v=2G6D3yIWMdQ', icon = 'mdi:youtube' },
 	] },
 ]
