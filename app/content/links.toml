@@ -13,7 +13,7 @@ sections = [
 		{ title = 'Pinchas Lapide, Quoted in Carl E. Braaten, introduction to The Resurrection of Jesus: A Jewish Perspective (Eugene, OR: Wipf and Stock, 1982), 13', url = 'https://archive.org/details/resurrectionofje0000lapi', icon = 'simple-icons:internetarchive' },
 		{ title = "Sir Lionel Luckhoo (Guinness Records; world's most successful lawyer) (Clifford, The Case for the Empty Tomb, 112)", url = 'https://archive.org/details/caseforemptytomb0000ross/mode/2up', icon = 'simple-icons:internetarchive' },
 	] },
-	{ heading = 'Unlock Your Potential with Tailored Solutions', links = [
+	{ heading = ' ', links = [
 		{ title = 'ക്രിസ്തുവിന്റെ ഉയിർപ്പ് ചരിത്ര സംഭവമോ? - ഭാഗം ഒന്ന്: ചരിത്ര വസ്തുതകൾ', url = 'https://www.youtube.com/watch?v=koIn7GKgd0E&list=PLnSXRGBsm3ch1fGmsthpoEz9S9b4mYT62', icon = 'mdi:youtube' },
 		{ title = 'ക്രിസ്തുവിന്റെ ഉയിർപ്പ് ചരിത്ര സംഭവമോ? - ഭാഗം രണ്ട്: വിശദീകരണം', url = 'https://www.youtube.com/watch?v=VhBlDAoe4s0&list=PLnSXRGBsm3ch1fGmsthpoEz9S9b4mYT62&index=2', icon = 'mdi:youtube' },
 		{ title = 'നിരീശ്വരവാദി പണ്ഡിതർ സമ്മതിക്കുന്ന ഉയർത്തെഴുനേൽപ്പ്‌ വസ്തുത! | EP 3', url = 'https://www.youtube.com/watch?v=qbUVRS9Mpa0', icon = 'mdi:youtube' },
