@@ -1,6 +1,6 @@
 
 sections = [
-	{ heading = 'Your Trusted Partner for Innovative Solutions and Expert Support', description = "Welcome to our website! We're dedicated to providing high-quality services that meet your needs. Whether you're looking for innovative solutions, expert advice, or reliable support, we are here to help. Our team is committed to delivering exceptional value and ensuring your satisfaction every step of the way.\n\nFeel free to explore our offerings and get in touch with any questions. We look forward to working with you and helping you achieve your goals.", links = [
+	{ heading = 'Citations', links = [
 		{ title = 'Josephus, Antiquities 18.64. Josephus in Ten Volumes, vol. 9, Jewish Antiquities, Loeb Classical Library Louis H. Feldman, trans.', url = 'https://archive.org/details/Jewish-Antiquities-vol-8/page/2/mode/2up', icon = 'simple-icons:internetarchive' },
 		{ title = 'John Dominic Crossan, Jesus: A Revolutionary Biography, 145', url = 'https://archive.org/details/jesus-a-biography-john-dominic-crossan_202302/mode/2up', icon = 'simple-icons:internetarchive' },
 		{ title = 'Dr. William D Edwards, On the Physical Death of Jesus Christ, Journal of the American Medical Association, 1455-1463', url = 'https://people.bethel.edu/~pferris/ot103/Jesus_Crucifixion.pdf', icon = 'mdi:file-pdf-box' },
