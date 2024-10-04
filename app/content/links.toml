@@ -8,6 +8,8 @@ sections = [
 		{ title = 'Josephus (Antiquities 4.8.15)', url = 'https://google.com' },
 		{ title = "Michael Grant, Jesus: A Historian's Review of the Gospels", url = 'https://archive.org/details/jesushistoriansr00gran/page/n7/mode/2up', icon = 'simple-icons:internetarchive' },
 		{ title = 'Gerd Lüdemann, The Resurrection of Jesus. p. 38.', url = 'https://archive.org/details/resurrectionofch0000ldem/page/n5/mode/2up', icon = 'simple-icons:internetarchive' },
+		{ title = 'Gerd Lüdemann, What Really Happened to Jesus? trans. John Bowden, 80.', url = 'https://books.google.co.in/books/about/What_Really_Happened_to_Jesus.html?id=3j9-midmNzsC&redir_esc=y', icon = 'ph:books-fill' },
+		{ title = 'Lord George Lyttleton, The Conversion of St. Paul (New York: American Tract Society, 1929), p. 467', url = 'https://books.google.co.in/books/about/The_Conversion_of_St_Paul.html?id=I8DqLk41qZUC&redir_esc=y', icon = 'ph:books-fill' },
 	] },
 	{ heading = 'Unlock Your Potential with Tailored Solutions', links = [
 		{ title = 'Read Customer Testimonials', url = 'https://google.com' },
